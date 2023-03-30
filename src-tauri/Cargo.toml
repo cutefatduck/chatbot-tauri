@@ -1,8 +1,8 @@
 [package]
-name = "chatbot"
-version = "0.0.0"
-description = "A Tauri App"
-authors = ["you"]
+name = "chatbot_hrg"
+version = "0.0.1"
+description = "Bot that suggests rare games"
+authors = ["cutefatduck"]
 license = ""
 repository = ""
 edition = "2021"

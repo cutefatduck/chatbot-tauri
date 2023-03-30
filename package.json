@@ -1,12 +1,16 @@
 {
   "name": "chatbot",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "tauri": "tauri"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.2.2"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "js-yaml": "^4.1.0"
   }
 }

@@ -4,8 +4,8 @@
   line-height: 24px;
   font-weight: 400;
 
-  color: #0f0f0f;
-  background-color: #f6f6f6;
+  color: #f6f6f6;
+  background-color: #161616;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -14,13 +14,6 @@
   -webkit-text-size-adjust: 100%;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    color: #f6f6f6;
-    background-color: #161616;
-  }
-
-}
 
 html {
   height: 100%;
@@ -57,7 +50,7 @@ html {
   overflow-y: scroll;
   margin: auto;
   max-height: 70vh;
-  max-width: 60%;
+  max-width: 1000px;
 }
 
 
